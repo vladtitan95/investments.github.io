@@ -1,1 +1,1 @@
-# investments.github.io
+investments.github.io
